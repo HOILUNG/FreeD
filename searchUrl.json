@@ -7,7 +7,9 @@
       "url": "https://xn--128-zm3fr26s.xyz/inc/api.php",
       "cate": "动作片,5&&喜剧片,6&&爱情片,7&&科幻片,8&&恐怖片,9&&剧情片,10&&战争片,11&&国产剧,12&&香港剧,18&&韩国剧,17&&欧美剧,15&&综艺,3&&动漫,4",
       "remark":"普通资源",
-      "click": true
+      "click": true,
+      "type": "xml",
+	  "detailUrl": ""
     },
     {
       "id": 1,
@@ -16,7 +18,9 @@
       "url": "https://cj.bajiecaiji.com/inc/bjm3u8.php",
       "cate": "动作片,5&&喜剧片,6&&爱情片,7&&科幻片,8&&恐怖片,9&&剧情片,11&&战争片,101&&国产剧,12&&香港剧,13&&韩国剧,15&&欧美剧,17&&综艺,3&&动漫,4",
       "remark":"普通资源",
-      "click": true
+      "click": true,
+      "type": "xml",
+	  "detailUrl": ""
     },
     {
       "id": 1,
@@ -25,7 +29,9 @@
       "url": "https://m3u8.apiyhzy.com/api.php/provide/vod/at/xml",
       "cate": "动作片,6&&喜剧片,7&&爱情片,8&&科幻片,9&&恐怖片,10&&剧情片,11&&战争片,12&&国产剧,13&&香港剧,14&&韩国剧,16&&欧美剧,24&&综艺,3&&动漫,4",
       "remark":"普通资源",
-      "click": true
+      "click": true,
+      "type": "xml",
+	  "detailUrl": ""
     },
     {
       "id": 1,
@@ -34,7 +40,9 @@
       "url": "https://collect.wolongzyw.com/api.php/provide/vod/at/xml/",
       "cate": "动作片,5&&喜剧片,6&&爱情片,7&&科幻片,8&&恐怖片,9&&剧情片,10&&战争片,11&&国产剧,12&&香港剧,13&&韩国剧,14&&欧美剧,15&&综艺,3&&动漫,4",
       "remark":"普通资源",
-      "click": true
+      "click": true,
+      "type": "xml",
+	  "detailUrl": ""
     },
     {
       "id": 1,
@@ -43,7 +51,9 @@
       "url": "https://www.kuaibozy.com/api.php/provide/vod/from/kbm3u8/at/xml",
       "cate": "动作片,6&&喜剧片,7&&爱情片,8&&科幻片,9&&恐怖片,10&&剧情片,11&&战争片,12&&国产剧,13&&港台剧,14&&日韩剧,15&&欧美剧,16&&综艺,3&&动漫,4",
       "remark":"普通资源",
-      "click": true
+      "click": true,
+      "type": "xml",
+	  "detailUrl": ""
     },
     {
       "id": 1,
@@ -52,7 +62,9 @@
       "url": "https://www.hongniuzy2.com/api.php/provide/vod/from/hnm3u8/at/xml/",
       "cate": "动作片,5&&喜剧片,6&&爱情片,7&&科幻片,8&&恐怖片,9&&剧情片,10&&战争片,11&&国产剧,12&&香港剧,13&&韩国剧,18&&欧美剧,15&&综艺,3&&动漫,4",
       "remark":"普通资源",
-      "click": true
+      "click": true,
+      "type": "xml",
+	  "detailUrl": ""
     },
     {
       "id": 1,
@@ -61,7 +73,9 @@
       "url": "https://api.yulecj.com/api.php/provide/vod/from/lem3u8/at/xml/",
       "cate": "动作片,2&&喜剧片,3&&爱情片,4&&科幻片,5&&恐怖片,6&&剧情片,7&&战争片,8&&国产剧,15&&香港剧,16&&韩国剧,19&&欧美剧,18&&综艺,21&&动漫,26",
       "remark":"普通资源",
-      "click": true
+      "click": true,
+      "type": "xml",
+	  "detailUrl": ""
     },
     {
       "id": 1,
@@ -70,7 +84,9 @@
       "url": "https://m3u8.xiangkanapi.com/api.php/provide/vod/at/xml/",
       "cate": "动作片,4&&喜剧片,5&&爱情片,6&&科幻片,7&&恐怖片,8&&剧情片,9&&战争片,10&&国产剧,33&&香港剧,35&&韩国剧,34&&欧美剧,36&&综艺,39&&动漫,3",
       "remark":"普通资源",
-      "click": true
+      "click": true,
+      "type": "xml",
+	  "detailUrl": ""
     },
     {
       "id": 1,
@@ -79,7 +95,9 @@
       "url": "https://api.wujinapi.com/api.php/provide/vod/from/wjm3u8/at/xml/",
       "cate": "动作片,6&&喜剧片,7&&爱情片,8&&科幻片,9&&恐怖片,10&&剧情片,11&&战争片,12&&国产剧,13&&香港剧,14&&韩国剧,22&&美国剧,16&&综艺,3&&动漫,4",
       "remark":"普通资源",
-      "click": true
+      "click": true,
+      "type": "xml",
+	  "detailUrl": ""
     },
     {
       "id": 1,
@@ -88,7 +106,9 @@
       "url": "https://kudian10.com/api.php/provide/vod/from/kdm3u8/at/xml/",
       "cate": "动作片,6&&喜剧片,7&&爱情片,8&&科幻片,9&&恐怖片,10&&剧情片,11&&战争片,12&&国产剧,13&&香港剧,14&&韩国剧,21&&欧美剧,16&&综艺,3&&动漫,4",
       "remark":"普通资源",
-      "click": true
+      "click": true,
+      "type": "xml",
+	  "detailUrl": ""
     },
     {
       "id": 1,
@@ -97,7 +117,9 @@
       "url": "https://sdzyapi.com/api.php/provide/vod/from/sdm3u8/at/xml/",
       "cate": "动作片,6&&喜剧片,7&&爱情片,8&&科幻片,9&&恐怖片,10&&剧情片,11&&战争片,12&&国产剧,13&&香港剧,17&&韩国剧,15&&欧美剧,14&&综艺,3&&动漫,4",
       "remark":"普通资源",
-      "click": true
+      "click": true,
+      "type": "xml",
+	  "detailUrl": ""
     },
     {
       "id": 1,
@@ -106,7 +128,9 @@
       "url": "https://taopianapi.com/home/cjapi/as/mc10/vod/xml/m3u8",
       "cate": "动作片,65602&&喜剧片,65603&&爱情片,65604&&科幻片,65605&&恐怖片,65606&&剧情片,65607&&战争片,65608&&国产剧,1310800&&香港剧,1310804&&韩国剧,1310802&&欧美剧,1310801&&综艺,9306200&&动漫,9699423",
       "remark":"普通资源",
-      "click": true
+      "click": true,
+      "type": "xml",
+	  "detailUrl": ""
     },
     {
       "id": 1,
@@ -115,7 +139,9 @@
       "url": "https://www.feisuzyapi.com/api.php/provide/vod/from/fsm3u8/at/xml",
       "cate": "动作片,6&&喜剧片,7&&爱情片,8&&科幻片,9&&恐怖片,10&&剧情片,11&&战争片,12&&国产剧,13&&香港剧,14&&韩国剧,16&&欧美剧,24&&综艺,3&&动漫,4",
       "remark":"普通资源",
-      "click": true
+      "click": true,
+      "type": "xml",
+	  "detailUrl": ""
     },
     {
       "id": 1,
@@ -124,7 +150,9 @@
       "url": "https://api.apibdzy.com/api.php/provide/vod/from/dbm3u8/at/xml/",
       "cate": "动作片,6&&喜剧片,7&&爱情片,8&&科幻片,9&&恐怖片,10&&剧情片,11&&战争片,12&&国产剧,13&&香港剧,14&&韩国剧,15&&欧美剧,22&&综艺,3&&动漫,4",
       "remark":"普通资源",
-      "click": true
+      "click": true,
+      "type": "xml",
+	  "detailUrl": ""
     },
     {
       "id": 1,
@@ -133,7 +161,9 @@
       "url": "https://api.guangsuapi.com/api.php/provide/vod/from/gsm3u8/at/xml/",
       "cate": "动作片,6&&喜剧片,7&&爱情片,8&&科幻片,9&&恐怖片,11&&剧情片,10&&战争片,12&&国产剧,13&&港台剧,15&&韩国剧,16&&欧美剧,14&&综艺,3&&动漫,4",
       "remark":"普通资源",
-      "click": true
+      "click": true,
+      "type": "xml",
+	  "detailUrl": ""
     },
     {
       "id": 1,
@@ -142,7 +172,9 @@
       "url": "https://api.ukuapi.com/api.php/provide/vod/from/ukm3u8/at/xml/",
       "cate": "动作片,6&&喜剧片,7&&爱情片,8&&科幻片,9&&恐怖片,10&&剧情片,11&&战争片,12&&国产剧,13&&香港剧,14&&韩国剧,22&&欧美剧,16&&综艺,3&&动漫,4",
       "remark":"普通资源",
-      "click": true
+      "click": true,
+      "type": "xml",
+	  "detailUrl": ""
     },
     {
       "id": 1,
@@ -151,7 +183,9 @@
       "url": "https://api.tiankongapi.com/api.php/provide/vod/from/tkm3u8/at/xml/",
       "cate": "动作片,6&&喜剧片,12&&爱情片,7&&科幻片,8&&恐怖片,9&&剧情片,10&&战争片,11&&国产剧,13&&香港剧,5&&韩国剧,23&&欧美剧,4&&综艺,25&&动漫,24",
       "remark":"普通资源",
-      "click": true
+      "click": true,
+      "type": "xml",
+	  "detailUrl": ""
     }
 
   ]

@@ -208,6 +208,17 @@
       "click": true,
       "type": "xml",
       "detailUrl": ""
+    },
+    {
+      "id": 20,
+      "name": "快车资源",
+      "count": "32k",
+      "remark": "切片资源",
+      "url": "https://caiji.kczyapi.com/api.php/provide/vod/at/xml/",
+      "cate": "动作片,2&&喜剧片,3&&爱情片,4&&科幻片,5&&恐怖片,6&&剧情片,8&&战争片,7&&国产剧,12&&香港剧,13&&韩国剧,16&&欧美剧,15&&综艺,25&&动漫,20",
+      "click": true,
+      "type": "xml",
+      "detailUrl": ""
     }
   ]
 }

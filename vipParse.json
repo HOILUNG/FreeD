@@ -1,5 +1,11 @@
 {
-  "data": [
+  "data": [    
+    {
+      "id": 17,
+      "name": "bozrc",
+      "ad": "no",
+      "url": "https://jx.bozrc.com:4433/player/?url="
+    },
     {
       "id": 18,
       "name": "8090",
